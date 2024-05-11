@@ -12,20 +12,21 @@ You can try out the live demo [here](https://akshayaaravin.github.io/text-to-voi
 - Allows selection of different voices for speech synthesis.
 
 
-## Getting Started
 
-These instructions will help you set up the project on your local machine for development and testing purposes.
 
 ### Prerequisites
 
 - A modern web browser (e.g., Chrome, Firefox, Safari)
 
 ## Usage
--Enter the text you want to convert to speech in the provided textarea.
--Select the desired voice from the dropdown list.
--Click the "Play" button to hear the text spoken aloud.
+
+- Enter the text you want to convert to speech in the provided textarea.
+- Select the desired voice from the dropdown list.
+- Click the "Play" button to hear the text spoken aloud.
 
 ## Built With
--HTML
--CSS
--JavaScript
+
+- HTML
+- CSS
+- JavaScript
+
