@@ -30,3 +30,6 @@ You can try out the live demo [here](https://akshayaaravin.github.io/text-to-voi
 - CSS
 - JavaScript
 
+  ![Text to Speech Converter](https://github.com/akshayaaravin/text-to-voice/blob/main/final.PNG)
+
+
